@@ -1,0 +1,3 @@
+interface:
+  display_name: "MarkItDown"
+  short_description: "Convert PDF, DOCX, images, HTML to Markdown with MarkItDown"
