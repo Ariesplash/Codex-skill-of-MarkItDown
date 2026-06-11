@@ -1,4 +1,5 @@
 ﻿Important  
+Just uncompress the file and copy the folder into your Codex skill folder.
  
 Prerequisites：  
 MarkItDown requires Python 3.10 or higher. It is recommended to use a virtual environment to avoid dependency conflicts.
